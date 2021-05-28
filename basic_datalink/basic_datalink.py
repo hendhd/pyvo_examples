@@ -1,7 +1,7 @@
 #! /usr/bin/ python
 # -*- coding=utf-8 -*- 
 
-# A demo program to show how a TAP query in PyVO works. 
+# A demo program to show how datalink and SODA in PyVO work.
 
 import pyvo
 import warnings

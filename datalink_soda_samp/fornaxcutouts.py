@@ -7,6 +7,9 @@
 # 3. Use the datalink and SODA to make a cutout on this image around the
 # galaxies we are interested in. 
 #
+# Make sure to have Aladin open and connected to the SAMP hub before
+# starting the script.
+#
 # Markus Demleitner and Hendrik Heinl
 # heinl@g-vo.org
 #
